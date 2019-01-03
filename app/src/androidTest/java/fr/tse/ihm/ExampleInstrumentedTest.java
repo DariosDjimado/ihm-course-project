@@ -1,4 +1,4 @@
-package tse.fr.ihmproject;
+package fr.tse.ihm;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("tse.fr.ihmproject", appContext.getPackageName());
+        assertEquals("fr.tse.ihm", appContext.getPackageName());
     }
 }

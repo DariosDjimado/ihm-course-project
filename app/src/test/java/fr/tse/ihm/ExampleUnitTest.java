@@ -1,4 +1,4 @@
-package tse.fr.ihmproject;
+package fr.tse.ihm;
 
 import org.junit.Test;
 

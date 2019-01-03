@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Ihm project</string>
+    <string name="app_name">IHM</string>
+    <string name="add_name">Ajouter un nom</string>
+    <string name="save_name">Enregistrer</string>
 </resources>
