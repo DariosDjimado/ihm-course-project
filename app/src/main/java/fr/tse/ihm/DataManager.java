@@ -4,10 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DataManager {
-    private static final List<String> list = new ArrayList<>();
     private static DataManager instance;
+    private final List<String> list;
 
     private DataManager() {
+        list = new ArrayList<>();
     }
 
     public static DataManager getInstance() {
